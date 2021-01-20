@@ -1,2 +1,2 @@
 # map-hero
-Embedded map in hero banner, and experiment with tailwindcss
+Embedded map in hero banner, an experiment with tailwindcss
